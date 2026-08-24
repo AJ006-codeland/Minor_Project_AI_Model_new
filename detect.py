@@ -19,7 +19,7 @@ API_KEY = "f4pCso2oY1jQ8D3h1oRQ"          # rotate the old one you posted earlie
 WORKSPACE_NAME = "aayushmas-workspace-k2yif"
 WORKFLOW_ID = "general-segmentation-api-4"
 CLASSES = ["Leaf"]
-MIN_AREA_RATIO = 0.050
+MIN_AREA_RATIO = 0.005 #0.050
 
 # -----------------------------
 # Config - Classification (EfficientNetV2-S)
